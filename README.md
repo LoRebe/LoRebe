@@ -1,6 +1,6 @@
 ## Hi, I’m @LoRebe
 
-- 🌱 I’m just getting started in Data Engineering with AWS 
+- 🌱 I’m just getting started with Data Engineering with AWS 
 - ✨ I have a backgroud in empirical ressearch and data science
 -  :ant: I am also a certified Scrum Master
 
