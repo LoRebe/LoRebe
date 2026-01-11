@@ -1,13 +1,22 @@
 ## Hi, I’m @LoRebe
 
-- 🌱 I’m just getting started with Data Engineering with AWS 
-- ✨ I have a backgroud in empirical research and data science
--  :ant: I am also a certified Scrum Master
+⭐ As a data engineer in electro-mobility, for the past 3 years, I led the development of a data warehouse from scratch into a fully automated AWS platform, delivering diverse (geo-)data to enable data-driven decision making for electric charging infrastructure in Germany.
 
-### Experience
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/LoRebe/week2/blob/main/amazon_aws_logo_icon_145507.svg" title="AWS" alt="AWS" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/LoRebe/week2/blob/main/stata-logo-blue.svg" title="Stata" alt="Stata" width="60" height="60"/>&nbsp;
+⭐ I also have a backgroud in empirical research and data science.
+
+⭐ I am also a certified Scrum Master.
+
+## Experience
+### Workflow Automation and Scripting
+Python (AWS SDK)
+
+### Data Querying and transformation
+SQL | Python | STATA
+
+### Infrastructure as Code
+Terraform | OpenTofu | AWS CDK (Python)
+
+### Cloud
+AWS - *Key services (selection): S3, Lambda, Batch with Fargate, Glue, Redshift, Dynamo DB, Stepfunctions, Code Pipeline, SQS*
+- Certified Solutions Architect - Associate
+- Certified Data Engineer - Associate
